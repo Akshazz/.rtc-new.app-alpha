@@ -1,2 +1,3 @@
-# .rtc-new.app-alpha.v1.0
-take a risk
+# PWA-Tutorial
+
+This is a tutorial of how to make PWA of a simple website.
